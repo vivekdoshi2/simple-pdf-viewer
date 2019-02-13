@@ -1,5 +1,5 @@
 /**
- * Created by Viktor Hajer on 02/08/2018.
+ * Updated by Vivek Doshi on 13/02/2019.
  */
 import { Component, ElementRef, EventEmitter, Input, OnInit, Output, OnDestroy } from '@angular/core';
 import { HttpClient } from '@angular/common/http';

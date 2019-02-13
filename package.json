@@ -42,10 +42,6 @@
     "pdfjs-dist": "2.0.943",
     "@types/pdfjs-dist": "^0.1.2"
   },
-  "dependencies": {
-    "pdfjs-dist": "2.0.943",
-    "@types/pdfjs-dist": "^0.1.2"
-  },
   "devDependencies": {
     "@angular/animations": "^5.2.0",
     "@angular/cli": "1.6.8",
