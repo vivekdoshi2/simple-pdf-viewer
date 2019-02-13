@@ -3,8 +3,8 @@
   "version": "2.0.3",
   "license": "MIT",
   "author": {
-    "name": "Viktor Hajer",
-    "email": "viktor.hajer@gmail.com"
+    "name": "Vivek Doshi",
+    "email": "vivek.doshi2@gmail.com"
   },
   "scripts": {
     "ng": "ng",
@@ -39,12 +39,12 @@
   "homepage": "https://github.com/viktorhajer/simple-pdf-viewer#readme",
   "peerDependencies": {
     "@angular/core": ">=4.0.0",
-    "pdfjs-dist": "1.10.88",
-    "@types/pdfjs-dist": "^0.1.1"
+    "pdfjs-dist": "2.0.943",
+    "@types/pdfjs-dist": "^0.1.2"
   },
   "dependencies": {
-    "@types/pdfjs-dist": "0.1.1",
-    "pdfjs-dist": "1.10.88"
+    "pdfjs-dist": "2.0.943",
+    "@types/pdfjs-dist": "^0.1.2"
   },
   "devDependencies": {
     "@angular/animations": "^5.2.0",

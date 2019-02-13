@@ -10,13 +10,11 @@ declare global {
   const PDFJS: PDFJSStatic;
 }
 
-export { PDFJSStatic, PDFDocumentProxy, PDFViewerParams, PDFPageProxy, PDFSource,
-  PDFProgressData, PDFPromise, PDFTreeNode, PDFInfo } from 'pdfjs-dist';
+export { PDFJSStatic, PDFDocumentProxy, PDFViewerParams, PDFPageProxy, PDFSource, PDFProgressData, PDFPromise, PDFTreeNode, PDFInfo } from 'pdfjs-dist';
 
 @NgModule({
   imports: [HttpClientModule],
   declarations: [SimplePdfViewerComponent],
   exports: [SimplePdfViewerComponent]
 })
-export class SimplePdfViewerModule {
-}
+export class SimplePdfViewerModule {}
